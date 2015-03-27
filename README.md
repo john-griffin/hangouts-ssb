@@ -1,6 +1,6 @@
 ### About
 
-A Gmail site-specific browser (SSB) by node-webkit.
+A Google Hangouts site-specific browser (SSB) by node-webkit.
 
 ### Dependencies
 
@@ -11,5 +11,5 @@ A Gmail site-specific browser (SSB) by node-webkit.
 
 1. Run `npm install`
 1. Run `grunt nodewebkit`
-2. Open `build/Gmail/osx/Gmail.app`
+2. Open `build/Hangouts/osx/Hangouts.app`
 

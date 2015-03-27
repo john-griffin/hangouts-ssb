@@ -1,6 +1,6 @@
 {
     "main": "index.html",
-    "name": "Gmail",
+    "name": "Hangouts",
     "version": "1.0.0",
     "window": {
         "toolbar": false,

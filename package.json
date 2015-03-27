@@ -1,9 +1,9 @@
 {
-    "name": "Gmail-ssb",
-    "description": "A Gmail site-specific browser (SSB) by node-webkit.",
+    "name": "Hangouts-ssb",
+    "description": "A Google Hangouts site-specific browser (SSB) by node-webkit.",
     "repository" : {
         "type" : "git",
-        "url" : "git://github.com/chagel/gmail-ssb.git"
+        "url" : "git://github.com/john-griffin/hangouts-ssb.git"
     },
     "devDependencies": {
         "grunt": "latest",
